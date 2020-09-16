@@ -5,7 +5,7 @@ import datetime
 from pathlib import Path
 
 
-class fileg:
+class fileG:
     '''
     class file_manager:
             this class contains different set of methods for 
@@ -286,7 +286,7 @@ class fileg:
             if not flag:
                 self.folder_manager(os.path.join(destination_path,"others"))
                 shutil.move(os.path.join(source_path,file),os.path.join(destination_path,"others"))
-f=fileg()
+f=fileG()
 def typewise(history):
     global f
     f.typewise_organiser(history)
