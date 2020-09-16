@@ -5,11 +5,10 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="fileG", # Replace with your own username
-<<<<<<< HEAD
+
     version="0.0.3.dev1",
-=======
-    version="0.0.1.dev1",
->>>>>>> 48b95196e1fc5efb1ac6a746763fdb651927283f
+
+
     author="Abishek Sriram",
     author_email="abisheksriram2001@gmail.com",
     description="File organiser with many ways",
