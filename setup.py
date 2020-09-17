@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
 setuptools.setup(
     name="fileG", # Replace with your own username
 
-    version="0.0.4.dev1",
+    version="0.0.6.dev1",
 
 
     author="Abishek Sriram",
